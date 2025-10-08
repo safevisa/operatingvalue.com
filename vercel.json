@@ -18,6 +18,10 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=31536000; includeSubDomains"
         }
       ]
     },
@@ -35,6 +39,21 @@
     {
       "source": "/home",
       "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "http://codpal.cn/(.*)",
+      "destination": "https://www.codpal.cn/$1",
+      "permanent": true
+    },
+    {
+      "source": "http://www.codpal.cn/(.*)",
+      "destination": "https://www.codpal.cn/$1",
+      "permanent": true
+    },
+    {
+      "source": "https://codpal.cn/(.*)",
+      "destination": "https://www.codpal.cn/$1",
       "permanent": true
     }
   ]
