@@ -1,0 +1,26 @@
+{
+  "name": "CODPAL - 全球私域电商支付与履约解决方案",
+  "short_name": "CODPAL",
+  "description": "CODPAL为全球电商企业提供智能化的支付、物流与品牌营销一体化解决方案",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#2D7CFF",
+  "background_color": "#F8F9FA",
+  "display": "standalone",
+  "start_url": "/"
+}

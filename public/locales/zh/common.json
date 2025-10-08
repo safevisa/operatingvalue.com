@@ -1,0 +1,94 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品与技术",
+    "solutions": "解决方案",
+    "market": "市场与合作",
+    "investment": "投资与加盟",
+    "news": "新闻与活动",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "CODPAL",
+    "subtitle": "全球私域电商支付与履约解决方案",
+    "description": "为全球电商企业提供智能化的支付、物流与品牌营销一体化解决方案，助力企业实现全球化增长",
+    "cta": "了解更多",
+    "learnMore": "立即合作"
+  },
+  "mission": {
+    "title": "品牌使命",
+    "subtitle": "让全球电商更简单、更智能、更高效",
+    "description": "我们致力于通过技术创新，为全球电商企业提供一站式解决方案，让跨境贸易变得更加便捷和安全。"
+  },
+  "advantages": {
+    "title": "核心优势",
+    "subtitle": "三大核心能力，赋能全球电商",
+    "tech": {
+      "title": "技术驱动",
+      "description": "基于AI和大数据技术，提供智能化的业务决策支持"
+    },
+    "brand": {
+      "title": "品牌赋能",
+      "description": "全方位品牌营销解决方案，提升企业全球竞争力"
+    },
+    "data": {
+      "title": "数据洞察",
+      "description": "深度数据分析，为企业提供精准的市场洞察"
+    }
+  },
+  "products": {
+    "title": "产品与技术",
+    "subtitle": "全链路技术解决方案",
+    "architecture": {
+      "top": "智能品牌系统",
+      "middle": "数字营销中台", 
+      "bottom": "全球出海基础设施"
+    }
+  },
+  "solutions": {
+    "title": "解决方案",
+    "subtitle": "为不同行业提供定制化解决方案",
+    "crossborder": {
+      "title": "跨境电商",
+      "description": "一站式跨境贸易解决方案"
+    },
+    "branding": {
+      "title": "品牌出海",
+      "description": "全球化品牌营销策略"
+    },
+    "digital": {
+      "title": "数字营销",
+      "description": "数据驱动的精准营销"
+    }
+  },
+  "market": {
+    "title": "市场与合作",
+    "subtitle": "全球市场机遇与合作伙伴",
+    "opportunity": "市场机遇",
+    "partnership": "合作模式",
+    "cases": "成功案例"
+  },
+  "investment": {
+    "title": "投资与加盟",
+    "subtitle": "加入CODPAL，共创全球电商未来",
+    "benefits": "投资收益",
+    "apply": "立即加盟"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "开启您的全球化之旅",
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "company": "公司",
+      "message": "留言",
+      "submit": "提交"
+    }
+  },
+  "footer": {
+    "rights": "© 2024 CODPAL. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About CODPAL",
+    "products": "Products & Technology",
+    "solutions": "Solutions",
+    "market": "Market & Partnership",
+    "investment": "Investment & Join",
+    "news": "News & Events",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "CODPAL",
+    "subtitle": "Global Private Domain E-commerce Payment & Fulfillment Solutions",
+    "description": "Providing intelligent payment, logistics and brand marketing integrated solutions for global e-commerce enterprises, empowering global growth",
+    "cta": "Learn More",
+    "learnMore": "Contact Us Now"
+  },
+  "mission": {
+    "title": "Brand Mission",
+    "subtitle": "Making Global E-commerce Simpler, Smarter, and More Efficient",
+    "description": "We are committed to providing one-stop solutions for global e-commerce enterprises through technological innovation, making cross-border trade more convenient and secure."
+  },
+  "advantages": {
+    "title": "Core Advantages",
+    "subtitle": "Three Core Capabilities, Empowering Global E-commerce",
+    "tech": {
+      "title": "Technology-Driven",
+      "description": "Based on AI and big data technology, providing intelligent business decision support"
+    },
+    "brand": {
+      "title": "Brand Empowerment",
+      "description": "Comprehensive brand marketing solutions to enhance global competitiveness"
+    },
+    "data": {
+      "title": "Data Insights",
+      "description": "Deep data analysis providing accurate market insights for enterprises"
+    }
+  },
+  "products": {
+    "title": "Products & Technology",
+    "subtitle": "Full-Chain Technology Solutions",
+    "architecture": {
+      "top": "Intelligent Brand System",
+      "middle": "Digital Marketing Middle Platform",
+      "bottom": "Global Outbound Infrastructure"
+    }
+  },
+  "solutions": {
+    "title": "Solutions",
+    "subtitle": "Customized Solutions for Different Industries",
+    "crossborder": {
+      "title": "Cross-border E-commerce",
+      "description": "One-stop cross-border trade solutions"
+    },
+    "branding": {
+      "title": "Brand Globalization",
+      "description": "Global brand marketing strategies"
+    },
+    "digital": {
+      "title": "Digital Marketing",
+      "description": "Data-driven precision marketing"
+    }
+  },
+  "market": {
+    "title": "Market & Partnership",
+    "subtitle": "Global Market Opportunities and Partners",
+    "opportunity": "Market Opportunities",
+    "partnership": "Partnership Models",
+    "cases": "Success Cases"
+  },
+  "investment": {
+    "title": "Investment & Join",
+    "subtitle": "Join CODPAL, Create the Future of Global E-commerce",
+    "benefits": "Investment Returns",
+    "apply": "Apply Now"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Start Your Global Journey",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Submit"
+    }
+  },
+  "footer": {
+    "rights": "© 2024 CODPAL. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
